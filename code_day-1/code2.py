@@ -107,7 +107,7 @@ a = [1,2,3,4,5,6,7,8,9,10]
 # print the table of 9 using for loop
 
 # for i in a:
-#         print(i*9)
+#    print(i*9)
 
 
 # # print the even numbers using a for loop
@@ -214,3 +214,4 @@ def calculator(n, m, operation):
 # print(out)
 # out = calculator(2,3,"equals")
 # print(out)
+    
