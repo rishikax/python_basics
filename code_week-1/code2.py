@@ -3,6 +3,13 @@
 # a = 1
 # print("a is of type: ", type(a))
 
+a = 1
+type(a)
+
+
+
+
+
 # # float
 
 # a = 1.2
@@ -214,4 +221,8 @@ def calculator(n, m, operation):
 # print(out)
 # out = calculator(2,3,"equals")
 # print(out)
+    
+    
+    a = 1
+    print(a)
     
